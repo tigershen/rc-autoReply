@@ -1,0 +1,69 @@
+{
+  "ftp://tm.dft.tw@tiger": {
+    "home": {
+      "tiger": {
+        "mailScript": {
+          ".env": {
+            "type": "-",
+            "size": 97,
+            "lmtime": 1547452218960,
+            "modified": false
+          },
+          "autoReply.php": {
+            "type": "-",
+            "size": 1827,
+            "lmtime": 1547440119302,
+            "modified": false
+          },
+          "composer.json": {
+            "type": "-",
+            "size": 289,
+            "lmtime": 1547452138901,
+            "modified": false
+          },
+          "composer.lock": {
+            "type": "-",
+            "size": 27227,
+            "lmtime": 0,
+            "modified": true
+          },
+          "config.inc.php": {
+            "type": "-",
+            "size": 285,
+            "lmtime": 1547461788206,
+            "modified": false
+          },
+          "localization": {
+            "en_US.inc": {
+              "type": "-",
+              "size": 227,
+              "lmtime": 1545128587604,
+              "modified": false
+            }
+          },
+          "logs": {},
+          "readme.txt": {
+            "type": "-",
+            "size": 745,
+            "lmtime": 0,
+            "modified": false
+          },
+          "tiger_auto_reply.js": {
+            "type": "-",
+            "size": 440,
+            "lmtime": 1547439549490,
+            "modified": false
+          },
+          "tiger_auto_reply.php": {
+            "type": "-",
+            "size": 7532,
+            "lmtime": 1545144145682,
+            "modified": true
+          },
+          "vendor": {}
+        }
+      }
+    }
+  },
+  "$version": 1
+}

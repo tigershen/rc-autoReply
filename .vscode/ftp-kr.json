@@ -1,0 +1,18 @@
+{
+    "host": "tm.dft.tw",
+    "username": "tiger",
+    "password": "winona",
+    "remotePath": "/home/tiger/mailScript",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": true,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode",
+        "/logs",
+        "/vendor"
+    ]
+}
